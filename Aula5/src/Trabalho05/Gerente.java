@@ -1,11 +1,11 @@
-package Trabalho02;
+package Trabalho05;
 
 public class Gerente extends Empregado {
     private float salario;
 
-    public Gerente(String nome, String email, int anoContratacao, float salario) {
+    public Gerente(String nome, String email, int anoContratacao) {
         super(nome, email, anoContratacao);
-        this.salario = salario;
+
     }
     public float getSalario(){
         return salario;

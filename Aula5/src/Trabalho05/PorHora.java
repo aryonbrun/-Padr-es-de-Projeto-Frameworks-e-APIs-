@@ -1,4 +1,4 @@
-package Trabalho02;
+package Trabalho05;
 
 public class PorHora extends Empregado{
     private float valor_hora;
@@ -10,6 +10,9 @@ public class PorHora extends Empregado{
         this.quant_horas = quant_horas;
     }
 
+    public PorHora(String nome, String email, int anoContracao){
+        super(nome, email, anoContracao);
+    }
 
     public float getValor_hora() {
         return valor_hora;

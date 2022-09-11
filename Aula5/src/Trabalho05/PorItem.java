@@ -1,4 +1,4 @@
-package Trabalho02;
+package Trabalho05;
 
 public class PorItem extends Empregado {
     private float valor_producao;
@@ -9,7 +9,9 @@ public class PorItem extends Empregado {
         this.valor_producao = valor_producao;
         this.quantidade = quantidade;
     }
-
+    public PorItem(String nome, String email, int anoContratacao){
+        super(nome, email, anoContratacao);
+    }
     public float getValor_producao() {
         return valor_producao;
     }

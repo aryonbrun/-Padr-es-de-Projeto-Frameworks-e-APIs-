@@ -1,8 +1,8 @@
-package Trabalho02;
+package Trabalho05;
 
 import java.time.LocalDate;
 
-public abstract class Empregado {
+public abstract class Empregado extends EmpregadoFactory {
     private String nome;
     private String email;
     private int anoContratacao;
@@ -45,5 +45,14 @@ public abstract class Empregado {
 
     public void setAnoContratacao(int anoContratacao) {
         this.anoContratacao = anoContratacao;
+    }
+
+    @Override
+    public String toString() {
+        return "Empregado{" +
+                "nome='" + nome + '\'' +
+                ", email='" + email + '\'' +
+                ", anoContratacao=" + anoContratacao +
+                '}';
     }
 }

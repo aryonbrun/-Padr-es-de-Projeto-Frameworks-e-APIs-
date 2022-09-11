@@ -1,4 +1,4 @@
-package Trabalho02;
+package Trabalho05;
 
 public class PorComissao extends Empregado {    private float salario;
     private float comissao;
@@ -9,6 +9,10 @@ public class PorComissao extends Empregado {    private float salario;
         this.salario = salario;
         this.comissao = comissao;
         this.vendas = vendas;
+    }
+    public PorComissao(String nome, String email, int anoContratacao){
+        super(nome, email, anoContratacao);
+
     }
 
     public float getSalario() {
