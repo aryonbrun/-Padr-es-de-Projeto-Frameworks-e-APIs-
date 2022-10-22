@@ -1,4 +1,4 @@
-package aulaPratica1;
+package aulaPratica;
 
 public interface Sorvete {
 

@@ -1,4 +1,4 @@
-package aulaPratica1;
+package aulaPratica;
 
 public class SorveteFactory {
     public static Sorvete get(int tipo) {

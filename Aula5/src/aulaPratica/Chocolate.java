@@ -1,4 +1,4 @@
-package aulaPratica1;
+package aulaPratica;
 
 public class Chocolate implements Sorvete {
     public String fazerSorvete() {
