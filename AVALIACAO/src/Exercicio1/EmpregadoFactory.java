@@ -1,4 +1,4 @@
-package Trabalho05;
+package Exercicio1;
 
 public class EmpregadoFactory {
     public static Empregado getEmpregado(int cargo, String nome, String email, int anoContratacao){

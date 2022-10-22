@@ -1,4 +1,4 @@
-package Trabalho05;
+package Exercicio1;
 
 public class Gerente extends Empregado {
     private float salario;

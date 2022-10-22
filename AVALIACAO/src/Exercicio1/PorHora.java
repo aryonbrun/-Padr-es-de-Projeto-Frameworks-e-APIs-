@@ -1,4 +1,4 @@
-package Trabalho05;
+package Exercicio1;
 
 public class PorHora extends Empregado{
     private float valor_hora;

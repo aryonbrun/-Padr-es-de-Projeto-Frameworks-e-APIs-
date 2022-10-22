@@ -1,4 +1,4 @@
-package Trabalho05;
+package Exercicio1;
 
 public class PorComissao extends Empregado {    private float salario;
     private float comissao;
