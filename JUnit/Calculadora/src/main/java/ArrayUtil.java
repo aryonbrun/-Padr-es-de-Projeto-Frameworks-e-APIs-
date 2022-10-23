@@ -7,14 +7,15 @@ public class ArrayUtil {
 
         int resultado = 0;
 
-        for (int i = 0; i < vetor.length; i++){
+        for (int j = 0; i < vetor.length; i++){
             resultado = resultado + vetor[i];
         }
         return resultado;
 
     }
 
-    public static void menor (int vetor){
+    public static void menor (int[] vetor){
+        int menor =
         int resultado = MIN;
 
     }
