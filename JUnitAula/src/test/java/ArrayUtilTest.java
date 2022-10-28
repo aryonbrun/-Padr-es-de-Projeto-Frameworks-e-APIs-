@@ -43,9 +43,28 @@ public class ArrayUtilTest {
 
     @Test
     public void par() {
+        int [] valoresA = {2,4,6,8};
+        assertTrue(ArrayUtil.par(valoresA));
+
+        int [] valoresB = {10,15,20,42,54};
+        assertFalse(ArrayUtil.par(valoresB));
+
+        int [] valoresC = {1,3,5};
+        assertFalse(ArrayUtil.par(valoresC));
     }
 
     @Test
     public void busca() {
+        int [] valoresA = {2,4,6,8};
+        assertEquals(3, ArrayUtil.busca(valoresA, 8));
+        assertEquals(-1, ArrayUtil.busca(valoresA, 5));
+
+        int [] valoresB = {10,15,20,142,54};
+        assertEquals(0, ArrayUtil.busca(valoresB, 10));
+        assertEquals(-1, ArrayUtil.busca(valoresB, 25));
+
+        int [] valoresC = {1,-3,5};
+        assertEquals(-1, ArrayUtil.busca(valoresC, -1));
+        assertEquals(0, ArrayUtil.busca(valoresC, 1));
     }
 }

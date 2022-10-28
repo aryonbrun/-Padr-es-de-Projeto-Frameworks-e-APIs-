@@ -25,7 +25,7 @@ public class ArrayUtil {
         int maior = MIN;
         for (int j : vetor) {
             if (j > maior) {
-                maior = j:
+                maior = j;
             }
         }
         return maior;
@@ -52,12 +52,12 @@ public class ArrayUtil {
         return par;
     }
 
-    public static int busca (int [] vetor){
+    public static int busca (int [] vetor, double alvo){
         for (int i=0; i < vetor.length; i++){
-            int alvo;
             if (vetor [i] == alvo) {
                 return -i;
             }
         }
+        return -1;
     }
 }
