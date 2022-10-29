@@ -1,0 +1,11 @@
+package jpa;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+public class GeraTarefas {
+    public static void main(String[] args) {
+        EntityManagerFactory factory = Persistence.createEntityManagerFactory("jpa_exemplo");
+        factory.close();
+    }
+}

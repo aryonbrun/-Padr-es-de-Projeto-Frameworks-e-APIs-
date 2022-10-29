@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7945d835-91bd-4811-84fb-d5c6704ab53d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpa/AdicionaTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpa/BuscaTarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpa/GeraTarefas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pr/senac/br/modelo/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pr/senac/br/modelo/TarefaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/EmpregadoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/EmpregadoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorComissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorComissao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorHora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorHora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/PorItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio1/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/CalculaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/CalculaInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/ProxyCalcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio2/ProxyCalcula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/ArquivoSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/ArquivoSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/Calcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/Calcula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/InterfaceCalcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/InterfaceCalcula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/ProxyCalcula.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio3/ProxyCalcula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio4/Conjuge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio4/Formacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio4/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio4/FuncionarioBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AVALIACAO/src/Exercicio4/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnit/.idea/JUnit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/.idea/JUnit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnit/Calculadora/src/test/java/ArrayUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/Calculadora/src/test/java/ArrayUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JUnit/Calculadora/src/test/java/CalculaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JUnit/Calculadora/src/test/java/CalculaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GT70ETAZyBMzK6xf6YaVRkA4No" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Faculdade/4_PERIODO/padroes_projeto_frameworks_api/JUnit"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pr.senac.br.modelo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AtualizaTarefa">
+    <configuration name="AdicionaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpa.AdicionaTarefa" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AtualizaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpa.AtualizaTarefa" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuscaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpa.BuscaTarefa" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcluiTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpa.ExcluiTarefa" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeraTarefas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpa.GeraTarefas" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AtualizaTarefa" />
+        <item itemvalue="Application.AdicionaTarefa" />
+        <item itemvalue="Application.ExcluiTarefa" />
+        <item itemvalue="Application.BuscaTarefa" />
+        <item itemvalue="Application.GeraTarefas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7945d835-91bd-4811-84fb-d5c6704ab53d" name="Changes" comment="" />
+      <created>1666400495971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666400495971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
